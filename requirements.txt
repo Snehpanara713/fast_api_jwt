@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydentic
+sqlalchemy
+psycopg2
+psycopg
+werkzeug
+fastapi_jwt_auth
+enums
+pydantic[email,dotenv]==1.10.10
+pydantic== 2.6.2
+
+
+
+# pip install -r requirements.txt
